@@ -1,0 +1,10 @@
+s
+r
+f "grizzly bear"
+f fox
+i fox
+f fox
+d fox
+f fox
+d fox
+f fox
